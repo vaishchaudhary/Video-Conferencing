@@ -31,7 +31,7 @@ class TopHeader extends StatelessWidget {
           ])),
       const SizedBox(height: 40.0),
       SizedBox(
-        height: (MediaQuery.of(context).size.height / 2) - 230,
+        height: (MediaQuery.of(context).size.height / 2) - 200,
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [
